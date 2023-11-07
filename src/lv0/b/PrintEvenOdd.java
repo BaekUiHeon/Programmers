@@ -10,5 +10,6 @@ public class PrintEvenOdd {
             System.out.println(n+" is even");
         else
             System.out.println(n+" is odd");
+        sc.close();
     }
 }

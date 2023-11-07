@@ -7,5 +7,6 @@ public class AddString {
         String a = sc.next();
         String b = sc.next();
         System.out.println(a+b);
+        sc.close();
     }
 }
